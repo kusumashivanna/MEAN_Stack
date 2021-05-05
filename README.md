@@ -1,3 +1,3 @@
 # MEAN_Stack
-in one of the terminal run locally
-other terminal run node server.js
+1) In one of the terminal run locally
+2) Other terminal run node server.js
